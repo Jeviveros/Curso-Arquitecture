@@ -10,7 +10,7 @@ public partial class MainWindow : Window
     public MainWindow()
     {
         InitializeComponent();
-        CreateTask();   
+        CreateTask();
     }
 
     void AddMessage(string message)
@@ -22,7 +22,7 @@ public partial class MainWindow : Window
                 $"Mensaje: {message}," +
                 $"Hilo actual: {CurrentThreadId}\n";
         });
-  
+
     }
 
     void CreateTask()
