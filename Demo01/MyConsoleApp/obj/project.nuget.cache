@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "b2EJRSPzw2s=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\3488435\\OneDrive\\Escritorio\\ARQUITECTURA DE SOFTWARE\\CleanArchitecture\\Demo01\\MyConsoleApp\\MyConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\3488435\\.nuget\\packages\\figgle\\0.5.1\\figgle.0.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
