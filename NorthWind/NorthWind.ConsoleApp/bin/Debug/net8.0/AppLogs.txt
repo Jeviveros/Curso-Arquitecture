@@ -1,0 +1,1 @@
+FileWriter: 25/04/2025 16:03:33, System, Application started.FileWriter: 25/04/2025 16:03:33, Demo, Created: Azúcar refinadaFileWriter: 29/04/2025 9:54:57, System, Application started.FileWriter: 29/04/2025 9:57:05, System, Application started.

@@ -1,0 +1,16 @@
+C:\Users\3488435\OneDrive\Escritorio\ARQUITECTURA DE SOFTWARE\CleanArchitecture\NorthWind\NorthWind.core\obj\Debug\net8.0\NorthWind.Core.csproj.AssemblyReference.cache
+C:\Users\3488435\OneDrive\Escritorio\ARQUITECTURA DE SOFTWARE\CleanArchitecture\NorthWind\NorthWind.core\obj\Debug\net8.0\NorthWind.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3488435\OneDrive\Escritorio\ARQUITECTURA DE SOFTWARE\CleanArchitecture\NorthWind\NorthWind.core\obj\Debug\net8.0\NorthWind.Core.AssemblyInfoInputs.cache
+C:\Users\3488435\OneDrive\Escritorio\ARQUITECTURA DE SOFTWARE\CleanArchitecture\NorthWind\NorthWind.core\obj\Debug\net8.0\NorthWind.Core.AssemblyInfo.cs
+C:\Users\3488435\OneDrive\Escritorio\ARQUITECTURA DE SOFTWARE\CleanArchitecture\NorthWind\NorthWind.core\obj\Debug\net8.0\NorthWind.Core.csproj.CoreCompileInputs.cache
+C:\Users\3488435\OneDrive\Escritorio\ARQUITECTURA DE SOFTWARE\CleanArchitecture\NorthWind\NorthWind.core\obj\Debug\net8.0\NorthWind.Core.sourcelink.json
+C:\Users\3488435\OneDrive\Escritorio\ARQUITECTURA DE SOFTWARE\CleanArchitecture\NorthWind\NorthWind.core\bin\Debug\net8.0\NorthWind.core.deps.json
+C:\Users\3488435\OneDrive\Escritorio\ARQUITECTURA DE SOFTWARE\CleanArchitecture\NorthWind\NorthWind.core\bin\Debug\net8.0\NorthWind.core.dll
+C:\Users\3488435\OneDrive\Escritorio\ARQUITECTURA DE SOFTWARE\CleanArchitecture\NorthWind\NorthWind.core\bin\Debug\net8.0\NorthWind.core.pdb
+C:\Users\3488435\OneDrive\Escritorio\ARQUITECTURA DE SOFTWARE\CleanArchitecture\NorthWind\NorthWind.core\bin\Debug\net8.0\NorthWind.Entities.dll
+C:\Users\3488435\OneDrive\Escritorio\ARQUITECTURA DE SOFTWARE\CleanArchitecture\NorthWind\NorthWind.core\bin\Debug\net8.0\NorthWind.Entities.pdb
+C:\Users\3488435\OneDrive\Escritorio\ARQUITECTURA DE SOFTWARE\CleanArchitecture\NorthWind\NorthWind.core\obj\Debug\net8.0\NorthWin.38014752.Up2Date
+C:\Users\3488435\OneDrive\Escritorio\ARQUITECTURA DE SOFTWARE\CleanArchitecture\NorthWind\NorthWind.core\obj\Debug\net8.0\NorthWind.core.dll
+C:\Users\3488435\OneDrive\Escritorio\ARQUITECTURA DE SOFTWARE\CleanArchitecture\NorthWind\NorthWind.core\obj\Debug\net8.0\refint\NorthWind.core.dll
+C:\Users\3488435\OneDrive\Escritorio\ARQUITECTURA DE SOFTWARE\CleanArchitecture\NorthWind\NorthWind.core\obj\Debug\net8.0\NorthWind.core.pdb
+C:\Users\3488435\OneDrive\Escritorio\ARQUITECTURA DE SOFTWARE\CleanArchitecture\NorthWind\NorthWind.core\obj\Debug\net8.0\ref\NorthWind.core.dll
